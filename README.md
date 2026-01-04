@@ -1,4 +1,5 @@
 Portfolio Website (React)
+
 A responsive personal portfolio website built using React.js, designed to showcase my skills, projects, and a working contact form integrated with a backend service.
 
 Live Website:
@@ -15,28 +16,45 @@ This portfolio functions as my digital resume and demonstrates my ability to bui
 
 Key Features
 
+
 Modular, component-based architecture using React
+
 Dark mode implementation using React state
+
 Active navigation highlighting based on scroll position
+
 Fully responsive layout for mobile and desktop
+
 Clean, modern dark UI design
+
 Functional contact form with backend email support
+
 Deployed using cloud hosting platforms
+
 
 ---
 
 Technology Stack
 
 Frontend
+
 React.js (Vite)
+
 HTML5
+
 CSS3
+
 JavaScript (ES6+)
 
+
 Backend (Contact Form)
+
 Node.js
+
 Express.js
+
 Nodemailer
+
 
 Deployment
 Frontend: Vercel
