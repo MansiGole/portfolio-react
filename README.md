@@ -57,7 +57,117 @@ Nodemailer
 
 
 Deployment
+
 Frontend: Vercel
+
 Backend: Render
 
 ---
+
+Project Structure
+
+The project is organized using a clean and scalable folder structure:
+
+src
+
+components
+
+Navbar.jsx – Navigation bar with active link highlighting
+
+Hero.jsx – Hero / landing section
+
+About.jsx – About me section
+
+Skills.jsx – Skills listing
+
+Projects.jsx – Projects section
+
+ProjectCard.jsx – Reusable project card component
+
+Contact.jsx – Contact form with backend integration
+
+assets – Images and static assets
+
+App.jsx – Root application component
+
+main.jsx – React entry point
+
+index.css – Global styles
+
+public – Public static files
+
+package.json – Project configuration and dependencies
+
+README.md – Project documentation
+
+---
+
+Projects Included
+
+TinDog-
+A responsive landing page built using HTML, CSS, and Bootstrap.
+
+HTML & CSS Frontend Project-
+A responsive frontend project focused on layout design and styling.
+
+Verify My Wallet-
+A beginner-friendly Web3 dApp that integrates MetaMask for wallet verification.
+
+---
+
+Contact Form Implementation
+
+Contact form built using React controlled components
+
+Form data sent to backend using Fetch API
+
+Backend processes requests and sends emails via Nodemailer
+
+Sensitive credentials managed securely using environment variables
+
+---
+
+Deployment Information
+
+Frontend URL:
+https://portfolio-react-puce-tau.vercel.app
+
+Deployment Status: Ready
+
+Latest Commit: Initial React portfolio
+
+---
+
+Learning Outcomes
+
+Through this project, I gained hands-on experience with:
+
+Building scalable UIs using React components
+
+Managing application state using React Hooks
+
+Integrating frontend applications with backend APIs
+
+Debugging real-world issues such as CORS, SMTP, TLS, and Git
+
+Deploying full-stack applications to production
+
+---
+
+Future Improvements
+
+Resume download functionality
+
+UI animations using Framer Motion
+
+Blog or testimonials section
+
+Search engine optimization (SEO)
+
+---
+
+Contact
+
+LinkedIn:
+
+https://www.linkedin.com/in/mansi-gole125/
